@@ -7,6 +7,9 @@
 - **Boid Flocking** — Realistic animal group behavior (separation, alignment, cohesion)
 - **Herding Dog AI** — 4 skill levels (apprentice → elder) with increasing abilities
 - **5 Personality Types** — Patient, energetic, steady, clever, aggressive
+- **Script Engine** — Stochastic behavior scripts for each dog, enabling varied herding styles
+- **4 Dog Personalities** — Rex (bold leader), Biscuit (gentle herder), Thunder (high-energy), Old Blue (steady veteran)
+- **Cross-Game Patterns** — Shared behavior script format with CraftMind Fishing's personality system
 - **Multi-Dog Teams** — Coordinate multiple dogs for complex herding tasks
 - **Scoring System** — Combo chains, time bonuses, efficiency ratings
 - **Seasonal System** — Weather and terrain effects across 4 seasons
@@ -99,6 +102,20 @@ node scripts/playtest.js
 ## Roadmap
 
 See [ROADMAP.md](./ROADMAP.md) for detailed plans.
+
+## CraftMind Ecosystem
+
+| Repo | Description |
+|------|-------------|
+| [craftmind](https://github.com/CedarBeach2019/craftmind) | 🤖 Core bot framework |
+| [craftmind-fishing](https://github.com/CedarBeach2019/craftmind-fishing) | 🎣 Sitka Sound fishing RPG |
+| [craftmind-studio](https://github.com/CedarBeach2019/craftmind-studio) | 🎬 AI filmmaking engine |
+| [craftmind-courses](https://github.com/CedarBeach2019/craftmind-courses) | 📚 In-game learning system |
+| [craftmind-researcher](https://github.com/CedarBeach2019/craftmind-researcher) | 🔬 AI research assistant |
+| [**craftmind-herding**](https://github.com/CedarBeach2019/craftmind-herding) | 🐑 Livestock herding AI |
+| [craftmind-circuits](https://github.com/CedarBeach2019/craftmind-circuits) | ⚡ Redstone circuit design |
+| [craftmind-ranch](https://github.com/CedarBeach2019/craftmind-ranch) | 🌾 Genetic animal breeding |
+| [craftmind-discgolf](https://github.com/CedarBeach2019/craftmind-discgolf) | 🥏 Disc golf simulation |
 
 ## License
 
